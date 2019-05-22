@@ -2,7 +2,7 @@
  * USART-BLUETOOTH.c
  *
  * Created: 16-May-19 2:21:49 PM
- * Author : ROHITH
+ * Author : sandeep
  */ 
 
 #define F_CPU 16000000UL			/* Define frequency here its 12MHz */
