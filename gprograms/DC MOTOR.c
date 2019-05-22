@@ -2,7 +2,7 @@
  * DC MOTOR.c
  *
  * Created: 15-May-19 2:10:02 PM
- * Author : ROHITH
+ * Author : sandeep
  */ 
 
 #ifndef F_CPU
